@@ -84,3 +84,5 @@ When you are done with a challenge and want to test, simply run `yarn test` agai
 
 
 ## If you have any questions, defintely reach out and ask us on slack.
+
+<Sumon62 13/09/23>
